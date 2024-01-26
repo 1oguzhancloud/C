@@ -1,0 +1,2 @@
+# C
+Harf notu sonucu
